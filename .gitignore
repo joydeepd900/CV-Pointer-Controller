@@ -1,0 +1,12 @@
+# Python and PyInstaller caches
+__pycache__/
+build/
+dist/
+*.spec
+
+# Virtual Environments
+venv/
+env/
+
+# Executables (Upload these to GitHub Releases instead)
+*.exe
